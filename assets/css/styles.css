@@ -328,6 +328,7 @@ img{
   padding: 0 1.5rem;
   text-align: left;
   line-height: normal;
+  font-weight: var(--font-semi-bold);
 }
 
 /*========== MENU ==========*/
@@ -864,4 +865,10 @@ textarea {
 }
 .btn-group .btn.cancel:hover {
 	background: var(--light);
+}
+
+.pemesanan1 {
+  color: #FF2E63;
+  text-align: center;
+  size: 18px;
 }
